@@ -6,18 +6,16 @@ PetPalace is a comprehensive platform built to empower pet shops by allowing the
 
 - [About the Project](#about-the-project)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-used) 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ---
 
-## 📖 About the Project
+## 📖 About the Project <a name="about-the-project"></a> 
 
 PetPalace aims to connect pet shop owners and pet lovers in one place. It enables shop owners to register their shops, showcase their products and services, schedule appointments, and process payments, all while creating a smooth experience for pet owners.
 
@@ -27,7 +25,7 @@ The idea behind PetPalace is to make it easier for pet owners to find all the se
 
 ---
 
-## 🌟 Features
+## 🌟 Features <a name="features"></a>
 
 - **Role-Based Access**: Supports roles like **Shop Owner**, **Admin**, and **User**, each with tailored access levels.
 - **E-commerce**: Includes a shopping cart for products with a Stripe-integrated checkout.
@@ -39,7 +37,7 @@ The idea behind PetPalace is to make it easier for pet owners to find all the se
 - **Responsive Design**: Fully optimized for both desktop and mobile devices.
 - **Team Members**: Allows team members and veterinarians to manage their responsibilities and schedules.
 
-## 📸 Project Screenshots
+## 📸 Project Screenshots 
 
 <table>
   <tr>
@@ -68,7 +66,7 @@ The idea behind PetPalace is to make it easier for pet owners to find all the se
     <th>Feedback Index</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b301d8bd-3e79-415f-8133-c1f817d4fa5b" alt="Services" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/b301d8bd-3e79-415f-8133-c1f817d4fa5b" alt ="Services" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/2e475f87-626a-4c3c-8d64-8a6eb249cd8d" alt="Special Sale" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/94699306-ea5d-4807-9841-040289edea57" alt="Feedback index" width="200"></td>
   </tr>
@@ -85,7 +83,7 @@ The idea behind PetPalace is to make it easier for pet owners to find all the se
 
 ---
 
-## 💻 Technologies Used
+## 💻 Technologies Used <a name="technologies-used"></a>
 
 - **ASP.NET Core 8** - Backend framework
 - **Entity Framework Core** - ORM for managing database operations
@@ -96,7 +94,7 @@ The idea behind PetPalace is to make it easier for pet owners to find all the se
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
@@ -125,12 +123,12 @@ dotnet ef database update
 5. **Run the application**:
 dotnet run
 ---
-## 🔧 Configuration
+## 🔧 Configuration <a name="configuration"></a>
 Ensure your appsettings.json is properly set up with:
 - Database connection strings
 - Stripe API keys (for payment processing)
 ---
-## 📋 Usage
+## 📋 Usage <a name="usage"></a>
 - Shop Owners can register, add their pet shop details, manage products, services, and schedules.
 - Users can browse products, add items to the cart, schedule appointments, and complete purchases.
 - Admins can monitor platform activities, manage user roles, and oversee registered shops.
