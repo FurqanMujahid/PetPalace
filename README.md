@@ -12,7 +12,7 @@ PetPalace is a comprehensive platform built to empower pet shops by allowing the
   - [Installation](#installation)
   - [Configuration](#configuration)
 - [Usage](#usage)
-- 
+  
 ---
 
 ## 📖 About the Project <a name="about-the-project"></a> 
